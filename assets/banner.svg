@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Daniel Carneiro</title><desc id="desc">Senior Software Engineer. React, .NET e IA aplicada ao desenvolvimento. Criador de conteúdo e mentor de carreira DEV.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#10172c"/><stop offset="1" stop-color="#100e24"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#53bfff"/><stop offset=".6" stop-color="#9b7bff"/><stop offset="1" stop-color="#de7aff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8792b7" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="1100" cy="180" r="220" fill="#7c3aed" opacity=".08"/>
+<circle cx="1100" cy="180" r="150" fill="none" stroke="#9b7bff" stroke-opacity=".2"/>
+<circle cx="1100" cy="180" r="112" fill="none" stroke="#53bfff" stroke-opacity=".18"/>
+<rect x="52" y="52" width="6" height="253" rx="3" fill="url(#accent)"/>
+<text x="86" y="84" fill="#93a7c4" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="4">SOFTWARE · CONTEÚDO · MENTORIA</text>
+<text x="82" y="155" fill="#f4f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Daniel Carneiro<tspan fill="#9b7bff">.</tspan></text>
+<text x="86" y="203" fill="#b9c6dc" font-family="Segoe UI,Arial,sans-serif" font-size="26">Senior Software Engineer</text>
+<rect x="86" y="233" width="342" height="38" rx="19" fill="#1c2541" stroke="#34436a"/>
+<text x="108" y="258" fill="#b9d7ff" font-family="Segoe UI,Arial,sans-serif" font-size="18">React · .NET · IA no desenvolvimento</text>
+<text x="86" y="311" fill="#8d9bb7" font-family="Segoe UI,Arial,sans-serif" font-size="18">Compartilhando o que aprendo construindo software.</text>
+<text x="940" y="210" fill="url(#accent)" font-family="Consolas,monospace" font-size="90" font-weight="700">&lt;/&gt;</text>
+</svg>
